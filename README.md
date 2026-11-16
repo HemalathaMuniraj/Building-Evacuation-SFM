@@ -226,3 +226,4 @@ The current Social Force Model implementation is an initial simulation prototype
 ---
 
 **Repository:** https://github.com/HemalathaMuniraj/Building-Evacuation-SFM
+**Documentation status:** Initial Social Force Model implementation and project documentation.
